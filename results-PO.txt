@@ -1,0 +1,13 @@
+MATCH UP: PseudoContinuingAI(POWorkerRush(BFSPathFinding)) vs PseudoContinuingAI(OptimizablePORush(AStarPathFinding))
+Winner: 0  in 830 cycles
+PseudoContinuingAI(POWorkerRush(BFSPathFinding)) : null
+PseudoContinuingAI(OptimizablePORush(AStarPathFinding)) : null
+MATCH UP: PseudoContinuingAI(POWorkerRush(BFSPathFinding)) vs PseudoContinuingAI(OptimizablePORush(AStarPathFinding))
+Winner: 0  in 830 cycles
+PseudoContinuingAI(POWorkerRush(BFSPathFinding)) : null
+PseudoContinuingAI(OptimizablePORush(AStarPathFinding)) : null
+MATCH UP: PseudoContinuingAI(POWorkerRush(BFSPathFinding)) vs PseudoContinuingAI(OptimizablePORush(AStarPathFinding))
+Winner: 0  in 830 cycles
+PseudoContinuingAI(POWorkerRush(BFSPathFinding)) : null
+PseudoContinuingAI(OptimizablePORush(AStarPathFinding)) : null
+MATCH UP: PseudoContinuingAI(POWorkerRush(BFSPathFinding)) vs PseudoContinuingAI(OptimizablePORush(AStarPathFinding))

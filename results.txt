@@ -1,0 +1,37 @@
+tournaments.RoundRobinTournament: Starting tournament
+tournaments.RoundRobinTournament
+AIs
+	MentalSealPO
+	POWorkerRush(AStarPathFinding)
+	POLightRush(AStarPathFinding)
+maps
+	maps/10x10/basesWorkers10x10.xml
+iterations	10
+maxGameLength	3000
+timeBudget	100
+iterationsBudget	-1
+pregameAnalysisBudget	10001	2000
+preAnalysis	true
+fullObservability	false
+timeoutCheck	false
+runGC	true
+iteration	map	ai1	ai2	time	winner	crashed	timedout
+MATCH UP: MentalSealPO vs POWorkerRush(AStarPathFinding)
+preGameAnalysis player 1 took 10002
+TIMEOUT PLAYER 1!
+preGameAnalysis player 1 took 0
+0	0	0	1	625	1	-1	-1
+Winner: 1  in 625 cycles
+MentalSealPO : null
+POWorkerRush(AStarPathFinding) : null
+AI1 time usage, average:  100.0336, # times over budget: 19 (avg 101.10526315789474) , # times over 2*budget: 0 (avg NaN)
+AI2 time usage, average:  0.0544, # times over budget: 0 (avg NaN) , # times over 2*budget: 0 (avg NaN)
+MATCH UP: MentalSealPO vs POLightRush(AStarPathFinding)
+preGameAnalysis player 1 took 14
+preGameAnalysis player 1 took 0
+0	0	0	2	985	1	-1	-1
+Winner: 1  in 985 cycles
+MentalSealPO : null
+POLightRush(AStarPathFinding) : null
+AI1 time usage, average:  100.01725888324873, # times over budget: 17 (avg 101.0) , # times over 2*budget: 0 (avg NaN)
+AI2 time usage, average:  0.028426395939086295, # times over budget: 0 (avg NaN) , # times over 2*budget: 0 (avg NaN)
